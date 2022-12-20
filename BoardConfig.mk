@@ -171,6 +171,8 @@ TW_SUPPORT_INPUT_AIDL_HAPTICS :=true
 TW_SUPPORT_INPUT_AIDL_HAPTICS_FQNAME := "IVibrator/vibratorfeature"
 
 # TWRP Configuration
+TW_Y_OFFSET := 115
+TW_H_OFFSET := -115
 TW_FRAMERATE := 120
 TW_THEME := portrait_hdpi
 TW_INPUT_BLACKLIST := hbtp_vm
